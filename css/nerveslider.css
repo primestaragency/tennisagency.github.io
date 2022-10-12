@@ -106,7 +106,7 @@
     z-index: 90;
     width: 0;
 }
-
+/*
 .ns_nerveSlider .ns_prevButton,
 .ns_nerveSlider .ns_nextButton {
     width: 70px;
@@ -125,7 +125,8 @@
     border-radius: 100%;
     margin:auto;
 }
-
+*/
+/*
 .ns_nerveSlider .ns_prevButton {
     position: absolute;
     left: 60px;
@@ -145,7 +146,7 @@
     -o-transform: translateX(130px);
     transform: translateX(130px);
 }
-
+*/
 #slider-container:hover .ns_nerveSlider .ns_nextButton,#slider-container:hover .ns_nerveSlider .ns_prevButton {
     -webkit-transform: translateX(0px);
     -moz-transform: translateX(0px);
