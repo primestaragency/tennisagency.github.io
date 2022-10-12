@@ -462,17 +462,7 @@
     <!-- FAKE LOADER -->
     <script type="text/javascript" src="js/fakeloader.js"></script>
     <!-- NERVESLIDER -->
-    <script type="text/javascript" src="js/jquery-ui-custom.min.js"></script>
-    
-    <!-- BACKSTRETCH (BG IMAGE, FEATURED IMAGE AND HERO IMAGE) -->
-    <script type="text/javascript" src="js/backstretch.min.js"></script>
-    <script type="text/javascript">
-        jQuery(document).ready(function () {
-            "use strict";
-            jQuery('#featured-image').backstretch("images/photos/features.jpg", {fade:500});
-            jQuery('.grid.hero').backstretch("images/photos/crowd.jpg");
-        });
-    </script>    
+    <script type="text/javascript" src="js/jquery-ui-custom.min.js"></script> 
 
     <script type="text/javascript" src="js/nerveslider.min.js"></script>
     <script type="text/javascript" src="js/homeslider.js"></script>
@@ -570,8 +560,10 @@
     <script type="text/javascript">
         jQuery(window).load(function () {
             "use strict";
+            jQuery('#featured-image').backstretch("images/photos/features.jpg", {fade:500});
             jQuery('.grid.hero').backstretch("images/photos/testimonials.jpg");
-        });
+            //jQuery('.grid.hero').backstretch("images/photos/crowd.jpg");
+        }); 
     </script>
     <!-- TOOLTIPS -->
     <script type="text/javascript" src="js/jquery.tooltipster.min.js"></script>
