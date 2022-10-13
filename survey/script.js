@@ -5,6 +5,9 @@ $('#quiz').quiz({
   allowIncorrect: true,
   counterFormat: 'Question %current of %total',
   resultsFormat:'You got 4 out of %total correct!',
+  nextCallback:function(){
+    console.log(this.getAttribute('data-type'));
+  },
   finishCallback:function(){
     alert('done');
   },
