@@ -7,8 +7,10 @@ $('#quiz').quiz({
     {
       'q': 'Bacon ipsum dolor amet porchetta kevin filet mignon?',
       'options': [
-        'Yes',
-        'No'
+        'You need help negotiating and strategizing on a contract',
+        'You want someone else to search for sponsors on your behalf',
+        'You have offers but need someone to handle the negotiations',
+        'So'
       ],
       'correctIndex': 0,
       'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
@@ -19,7 +21,8 @@ $('#quiz').quiz({
       'options': [
         'Steak',
         'Ribs',
-        'Sirloin'
+        'Sirloin',
+        'Ribeye'
       ],
       'correctIndex': 2,
       'correctResponse': 'Correct! Bresaola venison picanha, brisket t-bone tenderloin salami jowl chicken landjaeger.',
