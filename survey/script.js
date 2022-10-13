@@ -12,9 +12,9 @@ $('#quiz').quiz({
         'You have offers but need someone to handle the negotiations',
         'You want help with scheduling and strategizing your season'
       ],
-      'correctIndex': 0,
-      'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
-      'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
+      //'correctIndex': 0, 
+      //'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
+      //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
     },
     {
       'q': 'Bacon ham tenderloin pork belly pork chop bresaola pancetta?',
