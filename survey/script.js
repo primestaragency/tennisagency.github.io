@@ -6,7 +6,8 @@ $('#quiz').quiz({
   counterFormat: 'Question %current of %total',
   questions: [
     {
-      'q': 'What do you most need a tennis agent for': [
+      'q': 'What do you most need a tennis agent for', 
+      'options': [
         'You need help negotiating and strategizing on contracts',
         'You want someone else to search for sponsors on your behalf',
         'You have offers but need someone to handle the negotiations',
