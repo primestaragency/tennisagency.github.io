@@ -13,9 +13,9 @@ $('#quiz').quiz({
         'You have offers but need someone to handle the negotiations',
         'You want help with scheduling and strategizing your season'
       ],
-      'correctIndex': 0, 
-      'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
-      'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
+      //'correctIndex': 0, 
+      //'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
+      //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
     },
     {
       'q': 'Bacon ham tenderloin pork belly pork chop bresaola pancetta?',
@@ -35,9 +35,9 @@ $('#quiz').quiz({
         'True',
         'False'
       ],
-      'correctIndex': 0,
-      'correctResponse': 'Correct! Bacon meatloaf beef porchetta jerky t-bone pastrami.',
-      'incorrectResponse': 'Incorrect! Pork loin fatback shankle.'
+      //'correctIndex': 0,
+      //'correctResponse': 'Correct! Bacon meatloaf beef porchetta jerky t-bone pastrami.',
+      //'incorrectResponse': 'Incorrect! Pork loin fatback shankle.'
     },
     {
       'q': 'Picanha meatball tenderloin burgdoggen cow jowl?',
@@ -46,9 +46,9 @@ $('#quiz').quiz({
         'Tenderloin',
         'Picanha'
       ],
-      'correctIndex': 2,
-      'correctResponse': 'Correct! Jowl frankfurter burgdoggen turkey, porchetta strip steak landjaeger jerky.',
-      'incorrectResponse': 'Incorrect! Swine andouille ground round, short ribs short loin.'
+      //'correctIndex': 2,
+      //'correctResponse': 'Correct! Jowl frankfurter burgdoggen turkey, porchetta strip steak landjaeger jerky.',
+      //'incorrectResponse': 'Incorrect! Swine andouille ground round, short ribs short loin.'
     }
   ]
 });
