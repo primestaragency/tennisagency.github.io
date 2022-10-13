@@ -25,9 +25,9 @@ $('#quiz').quiz({
         'Sirloin',
         'Ribeye'
       ],
-      'correctIndex': 2,
-      'correctResponse': 'Correct! Bresaola venison picanha, brisket t-bone tenderloin salami jowl chicken landjaeger.',
-      'incorrectResponse': 'Incorrect! Kevin bresaola meatball ball tip ground round.'
+      //'correctIndex': 2,
+      //'correctResponse': 'Correct! Bresaola venison picanha, brisket t-bone tenderloin salami jowl chicken landjaeger.',
+      //'incorrectResponse': 'Incorrect! Kevin bresaola meatball ball tip ground round.'
     },
     {
       'q': 'Corned beef hamburger alcatra biltong, beef ribs flank brisket?',
