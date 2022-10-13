@@ -4,6 +4,9 @@ $('#quiz').quiz({
   //homeButton: '#custom-home',
   allowIncorrect: true,
   counterFormat: 'Question %current of %total',
+  finishCallback:function(){
+    alert('done');
+  },
   questions: [
     {
       'q': 'What do you most need a tennis agent for', 
@@ -51,4 +54,5 @@ $('#quiz').quiz({
       //'incorrectResponse': 'Incorrect! Swine andouille ground round, short ribs short loin.'
     }
   ]
+  
 });
