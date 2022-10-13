@@ -6,8 +6,7 @@ $('#quiz').quiz({
   counterFormat: 'Question %current of %total',
   questions: [
     {
-      'q': 'Bacon ipsum dolor amet porchetta kevin filet mignon?',
-      'options': [
+      'q': 'What do you most need a tennis agent for': [
         'You need help negotiating and strategizing on contracts',
         'You want someone else to search for sponsors on your behalf',
         'You have offers but need someone to handle the negotiations',
