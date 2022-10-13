@@ -4,6 +4,7 @@ $('#quiz').quiz({
   //homeButton: '#custom-home',
   allowIncorrect: true,
   counterFormat: 'Question %current of %total',
+  resultsFormat:'You got 4 out of %total correct!',
   finishCallback:function(){
     alert('done');
   },
