@@ -64,10 +64,18 @@ h1 {
     background: #31b72f;
     border-color: #2db12b;
 }
+
+.answers a.incorrect {
+    background: #31b72f;
+    border-color: #2db12b;
+}
+
+/*
 .answers a.incorrect {
     background: #e64646;
     border-color: #e04040;
 }
+*/
 
 .answers a.correct,
 .answers a.incorrect {
