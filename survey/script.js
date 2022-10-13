@@ -6,7 +6,7 @@ $('#quiz').quiz({
   counterFormat: 'Question %current of %total',
   resultsFormat:'You got 4 out of %total correct!',
   nextCallback:function(){
-    console.log(this.getAttribute('data-index'));
+    console.log(this.data('index'));
   },
   finishCallback:function(){
     alert('done');
