@@ -132,20 +132,18 @@
           currentQuestionIndex = currentQuestion - 1,
           correct = questions[currentQuestionIndex].correctIndex;
 
-        //if (selected === correct) {
+        if (selected === correct) {
           $answerEl.addClass('correct');
           response = questions[currentQuestionIndex].correctResponse;
           score++;
-        //} else {
-          //$answerEl.addClass('incorrect');
-          //response = questions[currentQuestionIndex].incorrectResponse;
-          /*
+        } else {
+          $answerEl.addClass('incorrect');
+          response = questions[currentQuestionIndex].incorrectResponse;
           if (!base.options.allowIncorrect) {
             base.methods.gameOver(response);
             return;
           }
-          */
-        //}
+        }
 
         // check to see if we are at the last question
         if (currentQuestion++ === numQuestions) {
