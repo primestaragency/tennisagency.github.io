@@ -22,7 +22,8 @@
       gameOverScreen = base.options.gameOverScreen,
       nextButtonText = base.options.nextButtonText,
       finishButtonText = base.options.finishButtonText,
-      restartButtonText = base.options.restartButtonText,
+      //restartButtonText = base.options.restartButtonText,
+      restartButtonText = 'Continue to Part 2 of 2',
       currentQuestion = 1,
       quizresponses = '',
       score = 0,
@@ -59,7 +60,8 @@
 
         $(document).on('click', '#quiz-restart-btn, #quiz-retry-btn', function(e) {
           e.preventDefault();
-          base.methods.restart();
+          alert('go to part 2');
+          //base.methods.restart();
         });
       },
       setup: function() {
@@ -133,7 +135,7 @@
           currentQuestionIndex = currentQuestion - 1,
           correct = questions[currentQuestionIndex].correctIndex;
           quizresponses += currentQuestion + ':' + selected + '|';
-          console.log(quizresponses);
+          //console.log(quizresponses);
           setCookie('quizres', quizresponses, 5);
         if (selected === correct) {
           $answerEl.addClass('correct');
