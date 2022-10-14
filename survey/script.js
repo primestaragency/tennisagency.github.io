@@ -56,7 +56,7 @@ $('#quiz').quiz({
       //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
     },
     {
-      'q': 'Would you like to have multiple remote agents': 
+      'q': 'Would you like to have multiple remote agents',
         'options': [
         'Yes, I would be open to having remote agents',
         'No, I am only looking for in person agents',
