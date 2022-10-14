@@ -9,7 +9,7 @@ $('#quiz').quiz({
     //console.log($(".incorrect").data('index'));
   },
   finishCallback:function(){
-    //alert(quizresponses);
+    alert(quizresponses);
   },
   questions: [
     {
