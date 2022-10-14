@@ -24,6 +24,7 @@
       finishButtonText = base.options.finishButtonText,
       restartButtonText = base.options.restartButtonText,
       currentQuestion = 1,
+      quizresponses = '',
       score = 0,
       answerLocked = false;
 
@@ -131,7 +132,7 @@
           selected = $answerEl.data('index'),
           currentQuestionIndex = currentQuestion - 1,
           correct = questions[currentQuestionIndex].correctIndex;
-          console.log(currentQuestion,':',selected);
+          quizresponses += currentQuestion + ':' + selected;
           //console.log(selected);
         if (selected === correct) {
           $answerEl.addClass('correct');
