@@ -40,7 +40,7 @@ $('#quiz').quiz({
     //console.log($(".incorrect").data('index'));
   },
   finishCallback:function(){
-    alert(getCookie(quizres));
+    alert(getCookie('quizres'));
   },
   questions: [
     {
