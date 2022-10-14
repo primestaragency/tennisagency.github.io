@@ -60,7 +60,7 @@
 
         $(document).on('click', '#quiz-restart-btn, #quiz-retry-btn', function(e) {
           e.preventDefault();
-          alert('go to part 2');
+          window.location.href = '/survey/part-two/';
           //base.methods.restart();
         });
       },
