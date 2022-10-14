@@ -131,7 +131,7 @@
           selected = $answerEl.data('index'),
           currentQuestionIndex = currentQuestion - 1,
           correct = questions[currentQuestionIndex].correctIndex;
-
+          console.log(selected);
         if (selected === correct) {
           $answerEl.addClass('correct');
           response = questions[currentQuestionIndex].correctResponse;
