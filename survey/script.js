@@ -48,7 +48,7 @@ $('#quiz').quiz({
       'options': [
         'Help negotiating and strategizing on contracts',
         'Someone else to search for sponsors on your behalf',
-        'Help with management related activites like scheduling'.
+        'Help with management related activites like scheduling',
         'Someone who will help me earn more throughout my career'
       ],
       //'correctIndex': 0, 
