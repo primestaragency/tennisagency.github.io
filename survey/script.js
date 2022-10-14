@@ -41,7 +41,6 @@ $('#quiz').quiz({
   },
   finishCallback:function(){
     //alert(getCookie('quizres'));
-    window.location.href = '/survey/part-two/';
   },
   questions: [
     {
