@@ -44,24 +44,23 @@ $('#quiz').quiz({
   },
   questions: [
     {
-      'q': 'What do you most need a tennis agent for', 
+      'q': 'What do you most need a tennis agent for right now', 
       'options': [
-        'You need help negotiating and strategizing on contracts',
-        'You want someone else to search for sponsors on your behalf',
-        'You have offers but need someone to handle the negotiations',
-        'You want help with scheduling and strategizing your season'
+        'Help negotiating and strategizing on contracts',
+        'Someone else to search for sponsors on your behalf',
+        'Help with management related activites like scheduling'.
+        'Someone who will help me earn more throughout my career'
       ],
       //'correctIndex': 0, 
       //'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
       //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
     },
     {
-      'q': 'Bacon ham tenderloin pork belly pork chop bresaola pancetta?',
-      'options': [
-        'Steak',
-        'Ribs',
-        'Sirloin',
-        'Ribeye'
+      'q': 'Would you like to have multiple remote agents': [
+        'Yes, I would be open to having remote agents',
+        'No, I am only looking for in person agents',
+        'Possibly, I am open to having remote agents',
+        'Maybe, I would be consider it as an option'
       ],
       //'correctIndex': 2,
       //'correctResponse': 'Correct! Bresaola venison picanha, brisket t-bone tenderloin salami jowl chicken landjaeger.',
