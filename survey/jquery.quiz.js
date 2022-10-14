@@ -132,7 +132,7 @@
           selected = $answerEl.data('index'),
           currentQuestionIndex = currentQuestion - 1,
           correct = questions[currentQuestionIndex].correctIndex;
-          quizresponses += currentQuestion + ':' + selected + '|";
+          quizresponses += currentQuestion + ':' + selected + '|';
           console.log(quizresponses);
         if (selected === correct) {
           $answerEl.addClass('correct');
