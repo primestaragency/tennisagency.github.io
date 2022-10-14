@@ -134,7 +134,7 @@
           correct = questions[currentQuestionIndex].correctIndex;
           quizresponses += currentQuestion + ':' + selected + '|';
           console.log(quizresponses);
-          setCookie(quizres, quizresponses, 5);
+          setCookie('quizres', quizresponses, 5);
         if (selected === correct) {
           $answerEl.addClass('correct');
           response = questions[currentQuestionIndex].correctResponse;
