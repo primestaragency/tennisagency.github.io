@@ -40,7 +40,8 @@ $('#quiz').quiz({
     //console.log($(".incorrect").data('index'));
   },
   finishCallback:function(){
-    alert(getCookie('quizres'));
+    //alert(getCookie('quizres'));
+    window.location.href = '/survey/part-two/';
   },
   questions: [
     {
