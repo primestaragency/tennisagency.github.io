@@ -81,7 +81,7 @@ blockquote p.cite {
     color: #818181;
 }
 blockquote p.cite span {
-    color: #f5245f;
+    color: #9061C2;
 }
 blockquote p:before {
     color:#3e3e3e;
@@ -193,7 +193,7 @@ blockquote p:before {
 .social-icons li a:hover,
 .social-icons li a:focus,
 .social-icons li a:active {
-    background: #f5245f;
+    background: #9061C2;
     color: #fff;
 }
 .footer-social li a:before {
