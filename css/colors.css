@@ -269,7 +269,7 @@ blockquote p:before {
     color:#fff;
 }
 .icon-container:before {
-    border: 6px solid #f5245f;
+    border: 6px solid #9061C2;
 }
 /* ================= ROUNDED LIST ================== */
 .rounded-list span{
@@ -277,7 +277,7 @@ blockquote p:before {
     color:#fff;
 }
 .rounded-list span:before{
-    background: #f5245f;
+    background: #9061C2;
     color: #fff;
     border:5px solid #16171D;
 }
@@ -292,7 +292,7 @@ blockquote p:before {
     color: #818181;
 }
 .testimonial .testimonial-text p span{
-    color: #f5245f;
+    color: #9061C2;
 }
 .testimonial .testimonial-text:before {
     border-right-color: #363635 !important;
