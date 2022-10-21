@@ -40,7 +40,7 @@ h1,h2,h3,h4,h5,h6,.grid.hero .headline {
     color: #fff;
 }
 h1 small,h2 small,h3 small,h4 small,h5 small,h6 small {
-    color: #f5245f;
+    color: #9061C2;
 }
 h1.border:after,
 h2.border:after,
@@ -48,7 +48,7 @@ h3.border:after,
 h4.border:after,
 h5.border:after,
 h6.border:after {
-    background-color: #f5245f;
+    background-color: #9061C2;
 }
 #page-title {
     background-color: rgba(22, 23, 29, 0.7);
@@ -63,7 +63,7 @@ a {
     color: #fff;
 }
 a:hover {
-    color:#f5245f;
+    color:#9061C2;
 }
 hr {
     background: rgba(255,255,255,0.05);
