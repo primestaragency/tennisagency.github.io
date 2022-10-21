@@ -48,7 +48,7 @@ h3.border:after,
 h4.border:after,
 h5.border:after,
 h6.border:after {
-    background-color: #656abc;
+    background-color: #3b42aa;
 }
 #page-title {
     background-color: rgba(22, 23, 29, 0.7);
@@ -63,7 +63,7 @@ a {
     color: #fff;
 }
 a:hover {
-    color:#656abc;
+    color:#3b42aa;
 }
 hr {
     background: rgba(255,255,255,0.05);
@@ -104,7 +104,7 @@ blockquote p:before {
     background-color: #363635;
 }
 .ns_nerveSlider .ns_slideContent div h1,#featured-image-title h1 {
-    background-color: #656abc;
+    background-color: #3b42aa;
     color:#fff;
 }
 .ns_nerveSlider .ns_slideContent div p span {
@@ -195,7 +195,7 @@ blockquote p:before {
 .social-icons li a:hover,
 .social-icons li a:focus,
 .social-icons li a:active {
-    background: #656abc;
+    background: #3b42aa;
     color: #fff;
 }
 .footer-social li a:before {
@@ -216,7 +216,7 @@ blockquote p:before {
 .social-icons.team-social li a:hover,.social-icons.model-social li a:hover,
 .social-icons.team-social li a:focus,.social-icons.model-social li a:focus,
 .social-icons.team-social li a:active,.social-icons.model-social li a:active {
-    background: #656abc;
+    background: #3b42aa;
     color: #fff;
 }
 /* ================= CAROUSEL  ================== */
@@ -224,8 +224,8 @@ blockquote p:before {
     border: 3px solid #363635;
 }
 .owl-theme .owl-dots .owl-dot.active span {
-    background-color: #656abc !important;
-    border: 3px solid #656abc !important;
+    background-color: #3b42aa !important;
+    border: 3px solid #3b42aa !important;
 }
 .owl-theme .owl-dots .owl-dot:hover span {
     background: #363635;
@@ -236,7 +236,7 @@ blockquote p:before {
     background-color: #363635;
 }
 .owl-theme .owl-controls .owl-nav [class*='owl-']:hover {
-    background-color: #656abc;
+    background-color: #3b42aa;
 }
 .owl-theme .owl-controls .owl-nav .disabled:hover {
     background-color: #363635;
@@ -248,7 +248,7 @@ blockquote p:before {
     color:#fff;
 }
 .ombre-carousel h5 a:before {
-    background: #656abc;
+    background: #3b42aa;
 }
 .arrow-button {
     background-color: #3e3e3e;
@@ -262,7 +262,7 @@ blockquote p:before {
 }
 /* ================= ICON BOXES ================== */
 .icon-container {
-    background-color: #656abc;
+    background-color: #3b42aa;
 }
 .icon-container a {
     color:#fff;
@@ -271,7 +271,7 @@ blockquote p:before {
     color:#fff;
 }
 .icon-container:before {
-    border: 6px solid #656abc;
+    border: 6px solid #3b42aa;
 }
 /* ================= ROUNDED LIST ================== */
 .rounded-list span{
@@ -279,7 +279,7 @@ blockquote p:before {
     color:#fff;
 }
 .rounded-list span:before{
-    background: #656abc;
+    background: #3b42aa;
     color: #fff;
     border:5px solid #16171D;
 }
@@ -294,7 +294,7 @@ blockquote p:before {
     color: #818181;
 }
 .testimonial .testimonial-text p span{
-    color: #656abc;
+    color: #3b42aa;
 }
 .testimonial .testimonial-text:before {
     border-right-color: #363635 !important;
@@ -325,14 +325,14 @@ input:focus,textarea:focus {
 	color: #fff;
 }
 input[type="submit"]:hover {
-    background-color: #656abc;
+    background-color: #3b42aa;
 	color: #fff;
 }
 .button:hover, .button:focus, .button:active {
     color: #fff;
 }
 .button:before{
-    background-color: #656abc;
+    background-color: #3b42aa;
 }
 /* ================= FLEX IMAGE ================== */
 .caption-image figcaption {
@@ -353,7 +353,7 @@ input[type="submit"]:hover {
 }
 
 .ns_nerveSlider .ns_prevButton div:hover, .ns_nerveSlider .ns_nextButton div:hover, .ns_nerveSlider .ns_pauseButton div:hover {
-    background-color: #656abc;
+    background-color: #3b42aa;
     opacity: 1;
 }
 
@@ -395,10 +395,10 @@ input[type="submit"]:hover {
     background:#16171D;
 }
 #cboxError{
-    border:3px solid #656abc;
+    border:3px solid #3b42aa;
 }
 #cboxLoadedContent{
-    background: #656abc;
+    background: #3b42aa;
 }
 #cboxLoadingOverlay{
     background:#16171D;
@@ -424,12 +424,12 @@ input[type="submit"]:hover {
 	color: #fff;
 }
 .tooltipster-pink,.tooltipster-gototop,.tooltipster-header {
-	background: #656abc;
+	background: #3b42aa;
 	color: #fff;
 }
 /* ================= GOOGLE MAP PIN ================== */
 .pin:after {
-    color: #656abc;
+    color: #3b42aa;
 }
 /* ================= BLOG ================== */
 .grid-container .grid-content {
@@ -439,7 +439,7 @@ input[type="submit"]:hover {
     color: #fff;
 }
 .grid-container h4 a:before,.grid-container h5 a:before {
-    background: #656abc;
+    background: #3b42aa;
 }
 .grid-container.grid-small .grid-content p a {
     color:#818181;
@@ -448,7 +448,7 @@ input[type="submit"]:hover {
     color:#fff;
 }
 .grid-content.grid-quote p.grid-quote-cite span {
-    color: #656abc;
+    color: #3b42aa;
 }
 .grid-content.grid-quote:after {
     color: #3e3e3e;
@@ -482,7 +482,7 @@ input[type="submit"]:hover {
     color: #818181;
 }
 .sidebar-list li:hover a {
-    color: #656abc;
+    color: #3b42aa;
 }
 .sidebar-list li {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -491,23 +491,23 @@ input[type="submit"]:hover {
     border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 .sidebar-list li:hover:after, .sidebar-list li:focus:after, .sidebar-list li:active:after {
-    color: #656abc;
+    color: #3b42aa;
 }
 .sidebar-post-title span {
     color: #818181;
     background-color: #363635;
 }
 .sidebar-post-title:hover {
-    color: #656abc;
+    color: #3b42aa;
 }
 .sidebar-posts-img {
     border: 5px solid #363635;
 }
 .sidebar-posts li a:hover .sidebar-posts-img {
-    border: 5px solid #656abc;
+    border: 5px solid #3b42aa;
 }
 .sidebar-posts li a:hover .sidebar-post-title span {
-    background-color: #656abc;
+    background-color: #3b42aa;
     color: #fff;
 }
 .sidebar-post-date {
@@ -519,7 +519,7 @@ input[type="submit"]:hover {
     border:3px solid rgba(255, 255, 255, 0.05);
 }
 .flickr-box li img:hover {
-    border:3px solid #656abc;
+    border:3px solid #3b42aa;
 }
 /* ================= HORIZONTAL MENU ================== */
 .horizontal-menu li {
@@ -529,10 +529,10 @@ input[type="submit"]:hover {
     color: #fff;
 }
 .horizontal-menu li a:before {
-    background: #656abc;
+    background: #3b42aa;
 }
 #horizontal-menu-title {
-    background-color: #656abc;
+    background-color: #3b42aa;
     color:#fff;
 }
 #horizontal-menu-title.horizontal-menu-animate {
@@ -574,7 +574,7 @@ input[type="submit"]:hover {
   color: #fff;
 }
 .lg-outer .lg-thumb-item.active, .lg-outer .lg-thumb-item:hover {
-  border-color: #656abc;
+  border-color: #3b42aa;
 }
 .lg-progress-bar {
   background-color: rgba(255, 255, 255, 0.1);
@@ -584,14 +584,14 @@ input[type="submit"]:hover {
   color: #fff;
 }
 .lg-progress-bar .lg-progress {
-  background-color: #656abc;
+  background-color: #3b42aa;
 }
 .lg-backdrop {
   background-color: #363635;
 }
 /* ================= TABS ================== */
 .resp-tab-active {
-    border-top: 3px solid #656abc !important;
+    border-top: 3px solid #3b42aa !important;
 }
 .resp-tabs-list li:hover {
     background-color: #363635;
@@ -613,19 +613,19 @@ input[type="submit"]:hover {
 
 .resp-vtabs .resp-tabs-list li:hover {
     background-color: #363635;
-    border-left: 3px solid #656abc;
+    border-left: 3px solid #3b42aa;
     color: #fff;
 }
 .resp-vtabs .resp-tabs-list li.resp-tab-active {
     background-color: #363635;
-    border-left: 3px solid #656abc;
+    border-left: 3px solid #3b42aa;
 }
 h2.resp-tab-active {
     background-color: #363635;
 }
 @media only screen and (max-width: 700px) {
     .resp-tab-active {
-        background-color: #656abc !important;
+        background-color: #3b42aa !important;
         color: #fff !important;
     }
 }
@@ -675,7 +675,7 @@ h2.resp-tab-active {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 .footer-widget ul li:hover:after, .footer-widget ul li:focus:after, .footer-widget ul li:active:after {
-    color: #656abc;
+    color: #3b42aa;
 }
 #footer .footer-info {
     background-color: #16171D;
@@ -686,14 +686,14 @@ h2.resp-tab-active {
 }
 .tags:hover {
     color: #fff;
-    background-color: #656abc;
-    border: 1px solid #656abc;
+    background-color: #3b42aa;
+    border: 1px solid #3b42aa;
 }
 #back-to-top {
     color:#fff;
-    border-bottom:3px solid #656abc;
+    border-bottom:3px solid #3b42aa;
     background-color: #16171D;
 }
 #back-to-top:after {
-    background: #656abc;
+    background: #3b42aa;
 }
