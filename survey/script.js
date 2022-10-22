@@ -48,7 +48,7 @@ $('#quiz').quiz({
       'options': [
         'Managing / Negotiating sponsorships and endorsements.',
         'Season strategy, Scheduling of day to day activities.',
-        'Boosting your celebrity appeal and getting endorsements.'      ],
+        'Boosting your celebrity appeal and gaining endorsements.'      ],
       //'correctIndex': 0, 
       //'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
       //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
@@ -66,10 +66,10 @@ $('#quiz').quiz({
       //'incorrectResponse': 'Incorrect! Kevin bresaola meatball ball tip ground round.'
     },
     {
-      'q': 'Corned beef hamburger alcatra biltong, beef ribs flank brisket?',
+      'q': 'Are you willing to do sponsored posts on social media?',
       'options': [
-        'True',
-        'False'
+        'Yes, I will do #ad posts on my social media accounts.',
+        'No, I don\'t want to do any advertising related posts.'
       ],
       //'correctIndex': 0,
       //'correctResponse': 'Correct! Bacon meatloaf beef porchetta jerky t-bone pastrami.',
