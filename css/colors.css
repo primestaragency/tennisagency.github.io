@@ -134,7 +134,8 @@ blockquote p:before {
 /* ================= HEADER  ================== */
 #header-top {
     /*background: rgba(22, 23, 29, 0.7);*/ 
-    background-color: #333;
+    /*background-color: #111;*/
+    background-color: rgba(22, 23, 29, 0.7);
 }
 /* ================= MAIN MENU  ================== */
 #header-menu {
