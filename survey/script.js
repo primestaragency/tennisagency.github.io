@@ -44,13 +44,11 @@ $('#quiz').quiz({
   },
   questions: [
     {
-      'q': 'What do you most need a tennis agent for right now', 
+      'q': 'What do you most need help with in your career?', 
       'options': [
-        'Help negotiating and strategizing on contracts',
-        'Someone else to search for sponsors on your behalf',
-        'Help with management related activites like scheduling',
-        'Someone who will help me earn more throughout my career'
-      ],
+        'Managing / Negotiating sponsorships and endorsements.',
+        'Season strategy, Scheduling of day to day activities.',
+        'Boosting your celebrity appeal and getting endorsements.'      ],
       //'correctIndex': 0, 
       //'correctResponse': 'Correct! Spare ribs salami sirloin short ribs capicola.',
       //'incorrectResponse': 'Incorrect! Spicy jalapeno venison cupim shankle picanha.'
