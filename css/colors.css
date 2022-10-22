@@ -675,8 +675,11 @@ h2.resp-tab-active {
 .footer-widget .footer-list li {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
-.footer-widget ul li:hover:after, .footer-widget ul li:focus:after, .footer-widget ul li:active:after {
+.footer-widget ul li:focus:after, .footer-widget ul li:active:after {
     color: #3b42aa;
+}
+.footer-widget ul li:hover:after {
+    color: #656abc;	
 }
 #footer .footer-info {
     background-color: #16171D;
