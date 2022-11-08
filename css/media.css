@@ -18,6 +18,9 @@
     #four-columns[data-columns]::before {
         content: '1 .column.size-1of1';
     }
+    #header-logo img {
+	    width: 50px;
+    }
 }
 
 /* ================= OTHER MEDIA QUERIES ================== */
